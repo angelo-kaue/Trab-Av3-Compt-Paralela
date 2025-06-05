@@ -105,3 +105,8 @@ java -cp "bin;lib/*" Main
 - Caso o erro **CL_PLATFORM_NOT_FOUND_KHR** apareça, verifique se os drivers da GPU estão atualizados e se o OpenCL Runtime está corretamente instalado.
 
 - O gráfico gerado com JFreeChart será exibido em uma janela separada ao final da execução.
+
+---
+
+### 🔗 Repositório no GitHub
+👉 [Acessar repositório no GitHub](https://github.com/angelo-kaue/Trab-Av3-Compt-Paralela)
